@@ -1,10 +1,38 @@
-# Template Assignment
+# Even or Odd?
 
 ## Problem Statement
 
+Create a program that will tell a user whether a number is **even** or **odd**.
+
 ## Input Description
 
+The user will enter 1 integer as a response to your prompt.
+
 ## Sample Input/Output
+
+### Sample run 1
+
+```java
+Please enter a number: 12
+
+12 is even
+```
+
+### Sample run 2
+
+```java
+Please enter a number: 21
+
+21 is odd
+```
+
+### Sample run 3
+
+```java
+Please enter a number: 104
+
+104 is even
+```
 
 ## Submission
 
