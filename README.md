@@ -4,6 +4,11 @@
 
 Create a program that will tell a user whether a number is **even** or **odd**.
 
+<details>
+<summary>Click here if you need a hint!</summary>
+<p>Think about what properties even and odd numbers have, how can you use the modulo operator to check if a number is even?</p>
+</details>
+
 ## Input Description
 
 The user will enter 1 integer as a response to your prompt.
@@ -12,7 +17,7 @@ The user will enter 1 integer as a response to your prompt.
 
 ### Sample run 1
 
-```java
+```
 Please enter a number: 12
 
 12 is even
@@ -20,7 +25,7 @@ Please enter a number: 12
 
 ### Sample run 2
 
-```java
+```
 Please enter a number: 21
 
 21 is odd
@@ -28,7 +33,7 @@ Please enter a number: 21
 
 ### Sample run 3
 
-```java
+```
 Please enter a number: 104
 
 104 is even
